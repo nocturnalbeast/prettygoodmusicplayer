@@ -1,1 +1,0 @@
-A music player with no ads, no network connection, and Bluetooth control
